@@ -56,7 +56,7 @@ This should print: `Queen Elizabeth II`.
 
 This should print:
 
-```lldb
+```
 (
     monocle,
     "top hat",
@@ -90,7 +90,7 @@ This should print:
 
 This should print:
  
-```lldb
+```
 (
     "Old Fashioned",
     "Churchill Martini",
@@ -134,7 +134,7 @@ NSDictionary *classyByLiteral = @{ @"classy things" : @[ @"monocle"            ,
 
 This should print, in some order:
 
-```lldb
+```
 {
     "classy drinks" =     (
         "Old Fashioned",
@@ -164,7 +164,7 @@ This should print, in some order:
 
 This should print a dictionary matching the one from section A. Verify that the keys and objects are not inverted:
 
-```lldb
+```
 // correct key : value order
 
 {
@@ -186,7 +186,7 @@ This should print a dictionary matching the one from section A. Verify that the 
 }
 ```
 
-```lldb
+```
 // incorrect key : value order
 
 {
@@ -224,7 +224,7 @@ NSDictionary *classyByClass = [NSDictionary dictionaryWithObjects:@[classyThings
 
 This should print another dictionary that matches the dictionaries from sections A and B:
 
-```lldb
+```
 {
     "classy drinks" =     (
         "Old Fashioned",
