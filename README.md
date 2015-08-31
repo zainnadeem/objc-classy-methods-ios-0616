@@ -73,7 +73,7 @@ This should print:
 
 This should print:
 
-```lldb
+```
 (
     "Katherine Hepburn",
     "James Stewart",
