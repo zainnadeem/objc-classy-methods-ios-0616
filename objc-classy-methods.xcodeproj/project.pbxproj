@@ -345,7 +345,6 @@
 		};
 		56680F19A8C7E3B169740DAE /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 58642D6DDF9570EFF10DE8D1 /* Pods-unit_tests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/objc-classy-methods.app/objc-classy-methods";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -430,7 +429,7 @@
 				GCC_WARN_UNUSED_LABEL = YES;
 				GCC_WARN_UNUSED_VALUE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -484,7 +483,7 @@
 				GCC_WARN_UNUSED_LABEL = YES;
 				GCC_WARN_UNUSED_VALUE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				ONLY_ACTIVE_ARCH = YES;
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				SDKROOT = iphoneos;
@@ -493,7 +492,6 @@
 		};
 		EF2F854CD6127A3728D7DA8C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BBB5492EABF4400CF67D1B9A /* Pods-unit_tests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/objc-classy-methods.app/objc-classy-methods";
 				FRAMEWORK_SEARCH_PATHS = (
