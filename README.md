@@ -27,7 +27,7 @@ This should print: `Katherine Hepburn`.
 
 1. Create a new `NSString` variable called `james` and use the string literal to set it to `@"James"`:
   *  `NSString *james = @"James";`
-2. Create a new `NSString` variable called `jamesStewart` and set use it to capture the return of calling the `alloc` and `initWithFormat:` method pair on `NSString`. Supply the argument with a format string with two object specifiers (`%@`) separated by a single space, the `james` string as the first specified object, and `@"Stewart" as the second specified object: 
+2. Create a new `NSString` variable called `jamesStewart` and set use it to capture the return of calling the `alloc` and `initWithFormat:` method pair on `NSString`. Supply the argument with a format string with two object specifiers (`%@`) separated by a single space, the `james` string as the first specified object, and `@"Stewart"` as the second specified object: 
   *  `NSString *jamesStewart = [[NSString alloc] initWithFormat:@"%@ %@", james, @"Stewart"];`
 3. Use `NSLog()` to print `jamesStewart` to the console:
   *  `NSLog(@"%@", jamesStewart);`
