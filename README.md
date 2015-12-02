@@ -245,3 +245,5 @@ This should print another dictionary that matches the dictionaries from sections
 ```
 
 ![](https://curriculum-content.s3.amazonaws.com/ios-intro-to-objects-unit/like_a_sir.jpg)
+
+<a href='https://learn.co/lessons/objc-classy-methods' data-visibility='hidden'>View this lesson on Learn.co</a>
