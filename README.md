@@ -246,4 +246,4 @@ This should print another dictionary that matches the dictionaries from sections
 
 ![](https://curriculum-content.s3.amazonaws.com/ios-intro-to-objects-unit/like_a_sir.jpg)
 
-<a href='https://learn.co/lessons/objc-classy-methods' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/objc-classy-methods' title='Classy Methods'>Classy Methods</a> on Learn.co and start learning to code for free.</p>
